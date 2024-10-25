@@ -11,7 +11,7 @@ function App() {
         </header>
         <main>
           <p className="text-gray-800 dark:text-gray-200 mb-4">
-            This is a sample paragraph to demonstrate the theme switching functionality.
+            This is a sample paragraph to demonstrate the theme switching functionality.  
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg shadow">
