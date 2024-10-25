@@ -20,7 +20,7 @@ function App() {
             </div>
             <div className="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg shadow">
               <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">Card 2</h2>
-              <p className="text-gray-700 dark:text-gray-300">This is some sample content for card 2.</p>
+              <p className="text-gray-700 dark:text-gray-300">This is some sample content for card  2.</p>
             </div>
           </div>
         </main>
